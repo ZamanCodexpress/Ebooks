@@ -1,8 +1,4 @@
-# 📚 Codexpress Free Ebooks
-
-48 free "Notes for Professionals" PDF guides — one for almost every major programming language and tool. Just click **Download PDF** on any one below, it opens the file directly, no GitHub account needed.
-
----
+# 📚 Free Ebooks
 
 ### 1. Algorithms
 Core algorithms and problem-solving techniques every programmer needs to know.
